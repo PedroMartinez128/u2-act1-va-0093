@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-subaru-0093.jpg
+Ruta del archivo: C:\IA_Gpo3-H\VA_0093\p1-act1-0093\img-original-0093\img-subaru-0093.jpg
+Formato por extension: .JPG
+Tamano en bytes: 56365
+Tamano en KB: 55.04
+Tamano en MB: 0.0538
+
+DIMENSIONES
+-----------
+Ancho: 678 pixeles
+Alto: 452 pixeles
+Resolucion: 678 x 452
+Total de pixeles: 306,456
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 105.76
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 115.14
+Verde (G): 106.87
+Rojo (R): 95.28
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
